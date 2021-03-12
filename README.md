@@ -41,3 +41,9 @@ Awesome Aspects of Post Quantum Cryptography
 ## PKI Test Server
 - http://test-pqpki.com/
 
+# Architectures
+
+## Quantum Xchange Phio TX
+- https://quantumxc.com/phio-tx-crypto-agility/
+
+
