@@ -3,6 +3,7 @@ Awesome Aspects of Post Quantum Cryptography
 
 ## Introduction
 - https://www.sigarch.org/post-quantum-cryptography/
+- https://blog.trailofbits.com/2018/10/22/a-guide-to-post-quantum-cryptography/
 - https://cloudblogs.microsoft.com/quantum/2020/02/26/cryptography-quantum-computers/
 
 ## Common Libraries
