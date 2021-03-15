@@ -10,6 +10,9 @@ Awesome Aspects of Post Quantum Cryptography
 ### PQClean
 - https://github.com/PQClean/PQClean
 
+### Dilithium Signature
+- https://github.com/pq-crystals/dilithium
+
 ### OpenQuantumSafe
 - https://github.com/open-quantum-safe
 
