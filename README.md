@@ -1,6 +1,10 @@
 # awesome-postquantum-cryptography
 Awesome Aspects of Post Quantum Cryptography
 
+## Introduction
+- https://www.sigarch.org/post-quantum-cryptography/
+- https://cloudblogs.microsoft.com/quantum/2020/02/26/cryptography-quantum-computers/
+
 ## Common Libraries
 
 ### PQClean
